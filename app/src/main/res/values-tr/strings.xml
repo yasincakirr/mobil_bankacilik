@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BankaGirisEkranTasarimi</string>
+    <string name="girisyazisi">İyi Günler Yasin</string>
+    <string name="itirazbutonu">Yoksa Yasin degil misin ?</string>
+    <string name="girisbutonu">Giriş</string>
+    <string name="QRbuton">QR ile Ödeme</string>
+    <string name="cekbuton">Para çek/yatır</string>
+    <string name="dovizbuton">Döviz kurları</string>
+    <string name="atmbuton">En Yakın Akbank</string>
+
+
+
+
+</resources>
