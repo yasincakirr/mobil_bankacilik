@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         var uyarimesaj=AlertDialog.Builder(this)
         uyarimesaj.setTitle("UYARI")
-        uyarimesaj.setMessage("Devam ettiginiz takdirde aktivasyonunuz silinecektir Eminmisiniz!!")
+        uyarimesaj.setMessage("Devam ettiginiz takdirde aktivasyonunuz silinecektir Eminmisiniz!!!")
         uyarimesaj.setPositiveButton("Evet",DialogInterface.OnClickListener { dialog, which ->
             finish()
         })
